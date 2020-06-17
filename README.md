@@ -2,16 +2,15 @@
 
 This is a fun and practical guitar pedal, and a great opportunity to practice surface mount (SMD) soldering (and do so with nothing but your regular soldering iron).
 
-NOTE: Resistors and capacitors are 0805 packages.
-
-![stompfuzz](stompfuzz.jpg)
-
-![stompfuzz wiring](stomp-fuzz-wiring.png)
-
 ### How to get it
 
 You can either download the gerber files from this repo, or [buy it on my store here](https://mas-effects.square.site/product/stompfuzz-pcb/24?cp=true&sa=false&sbp=false&q=false&category_id=7).
 
+### Pics and Wiring Diagram
+
+![stompfuzz](stompfuzz.jpg)
+
+![stompfuzz wiring](stomp-fuzz-wiring.png)
 ## Intro
 
 This is a bazz fuss circuit, with endless possibilities to try. 
@@ -24,6 +23,8 @@ I recommend experimenting with component values. e.g. see these writeups for som
 * [home-wrecker.com writeup](http://home-wrecker.com/bazz.html)
 
 ## Schematic
+
+NOTE: Resistors and capacitors are 0805 packages.
 
 You can and should substitute other values for all the components. But these are decent starting points.
 
