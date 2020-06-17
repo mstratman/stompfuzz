@@ -6,7 +6,7 @@
 
 ---
 
-This is a fun and practical guitar pedal, and a great opportunity to practice surface mount (SMD) soldering (and do so with nothing but your regular soldering iron).
+This is a fun and practical guitar pedal, and a great opportunity to practice surface mount (SMD) soldering (and do so with nothing but your regular soldering iron). It fits neatly over a 3PDT stomp switch.
 
 ### How to get it
 
