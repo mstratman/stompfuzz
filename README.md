@@ -10,7 +10,7 @@ This is a fun and practical guitar pedal, and a great opportunity to practice su
 
 ### How to get it
 
-You can either download the gerber files from this repo, or [buy it on my store here](https://mas-effects.square.site/product/stompfuzz-pcb/24?cp=true&sa=false&sbp=false&q=false&category_id=7).
+You can either download the gerber files from this repo, or [buy the PCB on my store here](https://mas-effects.square.site/product/stompfuzz-pcb/24?cp=true&sa=false&sbp=false&q=false&category_id=7), or to get the SMD components and footswitch included you can [buy a kit](https://mas-effects.square.site/product/stompfuzz-kit/26?cp=true&sa=false&sbp=false&q=false&category_id=7).
 
 ### Pics and Wiring Diagram
 
