@@ -6,7 +6,7 @@
 
 ---
 
-This is a fun and practical guitar pedal, and a great opportunity to practice surface mount (SMD) soldering (and do so with nothing but your regular soldering iron). It fits neatly over a 3PDT stomp switch.
+This is a fun and practical guitar pedal, and a great opportunity to practice surface mount (SMD) soldering (and do so with nothing but your regular soldering iron). It fits neatly over a 3PDT stomp (or toggle) switch.
 
 ### How to get it
 
@@ -78,6 +78,13 @@ Tone control blends between C1 and C3. Pick two different values to change which
 ## Buzz Box
 
 Try chaining it with a [picofuzz](https://github.com/mstratman/picofuzz) to allow you to switch between a single and dual fuzz.
+
+## Guitar-mounted
+
+Instead of a stomp switch, simply use a 3PDT toggle instead and you can mount
+it in your guitar.
+
+![toggle fuzz](toggle.jpg)
 
 ## Optional add-ons:
 
