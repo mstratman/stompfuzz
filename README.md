@@ -69,11 +69,11 @@ All of the pots on this pedal are optional. Here are steps to omit any or all of
 
 TODO: This should be filled in and fleshed out further
 
-MMBTA14LT1G + 100k
-MMBT6427LT1G  + 10k
-MMBF5457
-MMBT3904VL  + 510k
-MMBT5088LT1G + 100k
+* MMBTA14LT1G + 100k
+* MMBT6427LT1G  + ?
+* MMBF5457 + ?
+* MMBT3904VL  + 510k
+* MMBT5088LT1G + 100k
 
 
 Diodes:
