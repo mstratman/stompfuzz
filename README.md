@@ -33,6 +33,8 @@ I recommend experimenting with component values. e.g. see these writeups for som
 
 You can solder SMD components with a regular soldering iron, and no special tools or equipment. It doesn't take a lot of practice, and this board is great for it.
 
+[This SMD soldering video](https://www.youtube.com/watch?v=P5XwpNuIvf0) goes through the basic process.
+
 Here are some tips:
 
 * **Order of components**: First solder the SMD components, then the trim pot (if using one), then the wires, then the stomp or toggle switch
