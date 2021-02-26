@@ -2,7 +2,7 @@
 
 ---
 
-*For more DIY pedal fun (e.g. an [even ridiculously tinier version](https://mas-effects.square.site/product/picofuzz-kit/25?cp=true&sa=false&sbp=false&q=false&category_id=7) of this), visit the [MAS Effects](https://mas-effects.com) page.*
+*For more DIY pedal fun (e.g. an [even ridiculously tinier version](https://shop.mas-effects.com/products/3-picofuzz-pcbs) of this), visit the [MAS Effects](https://mas-effects.com) page.*
 
 ---
 
@@ -10,7 +10,7 @@ This is a fun and practical guitar pedal, and a great opportunity to practice su
 
 ### How to get it
 
-You can either download the gerber files from this repo, or [buy the PCB on my store here](https://mas-effects.square.site/product/stompfuzz-pcb/24?cp=true&sa=false&sbp=false&q=false&category_id=7), or get a [kit that includes SMD components and footswitch](https://mas-effects.square.site/product/stompfuzz-kit/26?cp=true&sa=false&sbp=false&q=false&category_id=7).
+You can either download the gerber files from this repo, or [buy the PCB on my store here](https://shop.mas-effects.com/products/3-picofuzz-pcbs), or get a [kit that includes SMD components and footswitch](https://shop.mas-effects.com/products/3-picofuzz-pcbs?variant=37781783576737).
 
 ## Intro
 
