@@ -10,7 +10,7 @@ This is a fun and practical guitar pedal, and a great opportunity to practice su
 
 ### How to get it
 
-You can either download the gerber files from this repo, or [buy the PCB on my store here](https://shop.mas-effects.com/products/3-picofuzz-pcbs), or get a [kit that includes SMD components and footswitch](https://shop.mas-effects.com/products/3-picofuzz-pcbs?variant=37781783576737).
+You can either download the gerber files from this repo, or [buy the PCB or kits on my store here](https://shop.mas-effects.com/collections/smd-fuzz/products/stompfuzz?variant=37781739405473).
 
 ## Intro
 
