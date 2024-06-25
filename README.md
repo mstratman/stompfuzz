@@ -59,11 +59,11 @@ You can and should substitute other values for all the components. But these are
 
 All of the pots on this pedal are optional. Here are steps to omit any or all of the 3:
 
-**Omit Volume**: Jumper V2 to V3
+**Omit Volume**: Jumper V2 to V3 to get full volume.
 
-**Omit Tone**: Omit C3, solder nothing to T1 and T3
+**Omit Tone**: Omit C3, solder nothing to T1 and T3, then choose a value of C1. 220nF will give you the most bass response, 1nF will cut some bass. Any value between these is reasonable.
 
-**Omit Gain**: Jumper G1 to G3
+**Omit Gain**: Jumper G1 to G3 to achieve full gain.
 
 ![omitting potentiometers](/omitting-knobs.png)
 
